@@ -1,3 +1,7 @@
+# Introduction
+
+This is my first Hack The Box writeup. The target is "Swagshop" 10.10.10.140
+
 # Initial Enumeration
 First attempt to identify listening services on the target using nmap:
 
