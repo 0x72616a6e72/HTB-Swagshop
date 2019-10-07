@@ -1,6 +1,7 @@
 # Introduction
 
 This is my first Hack The Box writeup. The target is "Swagshop" 10.10.10.140
+https://www.hackthebox.eu/home/machines/profile/188
 
 # Initial Enumeration
 First attempt to identify listening services on the target using nmap:
@@ -111,7 +112,7 @@ RCE is always helpful!
 
 Magento eCommerce - Remote Code Execution                                                                                                    https://www.exploit-db.com/exploits/37977
 
-Based on the information regarding version number this exploit should work!
+Based on the version of Magento this exploit should work!
 
 # Unprivileged Reverse Shell
 
